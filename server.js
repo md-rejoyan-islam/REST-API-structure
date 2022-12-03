@@ -1,17 +1,17 @@
-const { urlencoded } = require('body-parser')
 const express=require('express')
 const dotenv= require('dotenv').config()
-const port =process.env.PORT || 5005
+
 const app=express()
+const userRouter= require('./routes/user')
 
+// init environment variable
+const port = process.env.PORT || 5005;
+
+//express middleware
 app.use(express.json())
-app.use(urlencoded({extended:false}))
+app.use(express.urlencoded({extended:false}))
 
-
-app.get('/',(req,res)=>{
-    res.send('API')
-})
-
+app.use('/api/v1/user',userRouter)
 
 
 app.listen(port,()=>{
