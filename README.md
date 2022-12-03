@@ -1,6 +1,11 @@
 ## REST API STRUCTURE 
 
 
+### Packages
+* Express JS
+* Dotenv
+* Nodemon
+
 ### package install
 ```console 
 npm i express dotenv nodemon
