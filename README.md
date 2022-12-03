@@ -34,6 +34,6 @@ app.listen(port,()=>{
 ```
 
 ### Social Media Link
-[LinkedIn](https://www.linkedin.com/in/rej0yanislam/) </br>
-[Twitter](https://twitter.com/rej0yanislam)
+* [LinkedIn](https://www.linkedin.com/in/rej0yanislam/) </br>
+* [Twitter](https://twitter.com/rej0yanislam)
 
