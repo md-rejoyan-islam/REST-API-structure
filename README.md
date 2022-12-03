@@ -1,7 +1,14 @@
 ## REST API STRUCTURE 
 
 
-### SETUP
+### package install
+```console 
+npm i express dotenv nodemon
+```
+
+
+
+### Server Structure
 ```js
 const express=require('express')
 const dotenv= require('dotenv').config()
@@ -21,7 +28,4 @@ app.listen(port,()=>{
 })
 ```
 
-### package install
-```console 
-npm i express dotenv nodemon
-```
+
