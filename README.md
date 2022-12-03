@@ -1,6 +1,6 @@
 ## REST API STRUCTURE 
 
-![Folder Structure Image](https://drive.google.com/uc?id=13RapRNcLDsYGgsYA0dEW5serpsBsyXU6 folder structure photo)
+![Folder Structure Image](https://drive.google.com/uc?id=13RapRNcLDsYGgsYA0dEW5serpsBsyXU6 "folder structure photo")
 
 
 ### Packages
