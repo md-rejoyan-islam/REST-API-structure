@@ -1,7 +1,7 @@
-#### REST API STRUCTURE 
+## REST API STRUCTURE 
 
 
-###SETUP
+### SETUP
 ```js
 const express=require('express')
 const dotenv= require('dotenv').config()
