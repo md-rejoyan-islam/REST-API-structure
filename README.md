@@ -8,9 +8,9 @@
 * Dotenv
 * Nodemon
 
-### package install
+### Package Install
 ```console 
-npm i express dotenv nodemon
+$ npm i express dotenv nodemon
 ```
 
 
